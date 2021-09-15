@@ -1,4 +1,4 @@
-name: biobb_MDsetup_tutorial
+name: mapk11
 channels:
   - conda-forge
   - bioconda
@@ -7,7 +7,9 @@ dependencies:
   - biobb_io==3.6.0
   - biobb_model==3.6.0
   - biobb_md==3.6.0
+  - biobb_structure_utils
   - nb_conda_kernels
+  - jupyterlab
   - plotly
   - nglview
   - simpletraj
