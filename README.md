@@ -12,11 +12,9 @@ This is not a tutorial but a public workflow for testing its utility on MAPK11.
 
 ### Biobb modules used
 
-* [biobb_io](https://github.com/bioexcel/biobb_io): Tools to fetch biomolecular data from public databases.
 * [biobb_model](https://github.com/bioexcel/biobb_model): Tools to model macromolecular structures.
 * [biobb_md](https://github.com/bioexcel/biobb_md): Tools to setup and run Molecular Dynamics simulations.
 * [biobb_analysis](https://github.com/bioexcel/biobb_analysis): Tools to analyse Molecular Dynamics trajectories.
-* [biobb_structure_utils](https://github.com/bioexcel/biobb_structure_utils): Just in case, to be honest.
 
 
 ### Auxiliar libraries used
