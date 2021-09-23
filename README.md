@@ -1,6 +1,6 @@
 # MD Setup for MAPK11 using BioBB
 
-**Based on the workflow from BioBB which in turn is based NOT on an official GROMACS tutorial, but justim lemkul's**
+**Based on the workflow from BioBB which in turn is based NOT on an official GROMACS tutorial, but justin lemkul's**
 
 ***
 
